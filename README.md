@@ -2,6 +2,8 @@
 
 Install Glut Libraries from install-libraries.sh (Ubuntu)
 
+Description:
+
 Multi Threaded Ludo Game with a well commented simplified code using semaphores and OpenGL Glut library.
 Ludo is a strategy board game for two to four players, in which the players race their
 four tokens from start to finish according to the rolls of a single dies. This project
