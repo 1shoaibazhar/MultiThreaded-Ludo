@@ -1,4 +1,4 @@
-# MultiThreaded-Ludo
+# MultiThreaded-Ludo (Linux)
 Multi Threaded Ludo Game with a well commented simplified code using semaphores and OpenGL Glut library.
 Ludo is a strategy board game for two to four players, in which the players race their
 four tokens from start to finish according to the rolls of a single dies. This project
@@ -15,7 +15,9 @@ The rolls of a single die control the swiftness of the tokens, and entry to the 
 square requires a precise roll from the player. The first to bring all their tokens to the
 finish wins the game. The others often continue play to determine second, third, and
 fourth place finishers.
+
 Design:
+
   1.Each player rolls the die.
   
   2.Players do not take turns sequentially i.e. players alternate turns in a random fashion.
