@@ -1,4 +1,6 @@
 # MultiThreaded-Ludo (Linux)
+  
+Co-Creator: github.com/AnnaAhmed  
 
 Install Glut Libraries from install-libraries.sh (Ubuntu)
 
